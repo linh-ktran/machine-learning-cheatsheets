@@ -1,1 +1,1 @@
-Code storgae for machine learning projects
+Code storage for machine learning projects
